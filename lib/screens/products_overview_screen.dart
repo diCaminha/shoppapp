@@ -40,6 +40,6 @@ class ProductsGrid extends StatelessWidget {
           crossAxisSpacing: 10,
           mainAxisSpacing: 10
         ),
-      ) 
+      );
   }
 }
